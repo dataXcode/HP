@@ -73,7 +73,6 @@ class CodeBlock extends React.Component {
             output: classes.output,
         }
         const hintActions = [
-            { text: 'اظهار الحل', onClick: () => this.handleShowSolution() },
             { text: 'اعادة', onClick: () => this.handleReset() },
         ]
 
