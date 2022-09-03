@@ -1,16 +1,8 @@
-import keras
-import tensorflow
-import matplotlib
-import pandas
-import numpy
-import scipy
-import sklearn
-import cv2
+# اكتب اسمك الاول داخل علامات التنصيص
+fname = "Ahmed"
+# اكتب اسمك الاخير داخل علامات التنصيص
+lname = "Ali"
 
-
-_____________
-_____________
-_____________
-_____________
-_____________
-_____________
+# نفذ الكود لطباعة اسمك الاول والاخير 
+# مع جملة ترحيبية
+print("Dear", fname, lname, "welcome to Code Khana ♡")
